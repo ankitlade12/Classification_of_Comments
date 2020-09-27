@@ -19,4 +19,4 @@ We have used _pandas_profiling_ library to outline the dataset.
 
 **Final Model:**
 
-Random Forest
+* Random Forest
