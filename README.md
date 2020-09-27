@@ -1,6 +1,6 @@
 # Classification_of_Comments #
 
-**Introduction:** This challenge was posted in Kaggle by Jigsaw in collaboration with Google’s Alphabet. The reason I chose this dataset is to classify and remove or block rude comments online. All the comments were drawn from Wikipedia talk page where people can post their opinions and experiences online. By implementation of this project, we can reduce online harassment to provide freedom to post publicly.
+**Introduction:** This challenge was posted in Kaggle by Jigsaw in collaboration with Google’s Alphabet. The reason I choose this dataset is to classify and remove or block rude comments online. All the comments were drawn from Wikipedia talk page where people can post their opinions and experiences online by implementing we can reduce online harassment to provide freedom to post publicly.
 
 **Aim:** To classify comments into 6 categories based on level of toxicity.
 
