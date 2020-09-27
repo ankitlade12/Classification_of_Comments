@@ -12,10 +12,10 @@ We have used _pandas_profiling_ library to outline the dataset.
 
 **Classification Models:**
 
-1.Naive Bayes
-2.Logistic Regression
-3.Random Forest
-4.Gradient Boosting
+* Naive Bayes
+* Logistic Regression
+* Random Forest
+* Gradient Boosting
 
 **Final Model:**
 
