@@ -6,7 +6,7 @@
 
 We have used _pandas_profiling_ library to outline the dataset.
 
-**Feature Extraction:** We performed feature extraction which is the process of taking out a list of words from the text data and then transforming them into a feature set which would be used as predictors for classification. There are many ways to extract features using NLP techniques, in this project I have used the following two approach-
+**Feature Extraction:** Performed feature extraction which is the process of taking out a list of words from the text data and then transforming them into a feature set which would be used as predictors for classification. There are many ways to extract features using NLP techniques, in this project I have used the following two approach-
 * Count Vectorization
 * Term Frequency - Inverse Document Frequency (TF-IDF)
 
