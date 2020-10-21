@@ -4,6 +4,16 @@
 
 **Aim:** To classify comments into 6 categories based on level of toxicity.
 
+**Dataset Info** We have 6 classification output variables
+
+* Toxic
+* Severe-toxic
+* Obscene
+* Threat
+* Insult
+* Identity-hate 
+* ID variable and one input variable i.e. comment_text
+
 We have used _pandas_profiling_ library to outline the dataset.
 
 **Feature Extraction:** Performed feature extraction which is the process of taking out a list of words from the text data and then transforming them into a feature set which would be used as predictors for classification. There are many ways to extract features using NLP techniques, in this project I have used the following two approach-
